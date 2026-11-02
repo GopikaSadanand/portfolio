@@ -1,0 +1,18 @@
+{
+  "name": "gopika-sadanand-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website for Gopika Sadanand",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "gopika-sadanand",
+    "web-developer"
+  ],
+  "author": "Gopika Sadanand",
+  "license": "MIT"
+}
